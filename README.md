@@ -70,9 +70,7 @@ misto.
 
 Classifique a urgência como crítica, alta, média ou baixa, justificando-a somente com evidências do comentário:
 
-Urgência
-
-Critério
+UrgênciaCritério
 
 Crítica
 
